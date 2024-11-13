@@ -10,11 +10,8 @@ The project contains detailed examples of supervised learning, unsupervised lear
 - [Key Features](#key-features)
 - [Algorithms and Techniques](#algorithms-and-techniques)
 - [Installation](#installation)
-- [How to Use](#how-to-use)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Real-World Applications](#real-world-applications)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
